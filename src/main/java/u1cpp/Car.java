@@ -1,4 +1,4 @@
-package u2pp;
+package u1cpp;
 
 /**
  * This class represents a car‘s gas intake and consumption
@@ -40,10 +40,11 @@ public class Car {
     }
     
     /**
+     * YOUR COMMENT HERE
      * @return The amount of gas currently in the tank
      */
     public double getGasInTank() {
-        //YOUR CODE HERE
+        //YOUR CODE HERE (delete the dummy code below)
         return 0.0;
     }
     

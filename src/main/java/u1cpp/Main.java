@@ -1,4 +1,4 @@
-package u2pp;
+package u1cpp;
 
 import java.util.Scanner; //Allows you to use the Scanner objects
 
@@ -24,7 +24,8 @@ class Main {
    * @return YOUR COMMENT HERE
    */
   public static String wordChanger(String word1, int start1, int end1, String word2, int start2, int end2) {
-    //YOUR CODE HERE
+    //YOUR CODE HERE (delete the dummy code below)
+    // I recommend breaking the process down into many little steps, and only writing one step at a time, testing each step as you finish it. 
     return "";
   }
 }

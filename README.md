@@ -63,7 +63,7 @@ Enter distance to drive: 160
 Your Honda Fit currently has 4.666666666666667 gallons of gas left in the tank
 ```
 
-## PART D
+## PART D - `wordChanger`
 
 For **PART D**, you will be adding to the `Main` class a new method called `wordChanger`. The `wordChanger` method should take 6 parameters, should be `static` and should return a `String`. The parameters should be:
 

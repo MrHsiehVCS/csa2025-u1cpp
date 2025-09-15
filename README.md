@@ -1,4 +1,4 @@
-# Unit 2 Programming Project
+# Unit 1c Programming Project
 
 For this project, you will be writing a `Dice` class, a `Car` class. You will then use the `Car` class in a main method. You will also be creating a `static` method in the `Main` class that uses `String` methods.
 
